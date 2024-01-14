@@ -232,3 +232,4 @@ while run:
 	pygame.display.update()
 
 pygame.quit()
+#made by wadee & sameer
